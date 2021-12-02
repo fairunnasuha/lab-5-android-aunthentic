@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486268737078",
+    "project_id": "lab5authfairun",
+    "storage_bucket": "lab5authfairun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486268737078:android:faefe566997614b7aaea97",
+        "android_client_info": {
+          "package_name": "com.example.lab5authfairun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486268737078-0f8e8cd0lbvakrt6b3q44h01vcb29une.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXPZHOOlwiF2VViSlOlECYRPP3IMM1UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486268737078-0f8e8cd0lbvakrt6b3q44h01vcb29une.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
